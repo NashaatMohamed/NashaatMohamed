@@ -1,6 +1,3 @@
-Here's your updated GitHub profile README with the preferred header and a section on how to connect with you, without the three icons:
-
----
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NashaatMohamed.NashaatMohamed&"  />
@@ -17,7 +14,7 @@ Here's your updated GitHub profile README with the preferred header and a sectio
 
 ###
 
-<p align="left">I'm Nashaat Mohamed from Egypt.<br><br>- 🔭 I’m working as a Junior Backend Developer<br>- 📚 I'm currently learning advanced backend technologies and cloud services<br>- ⚡ In my free time, I enjoy solving coding challenges and contributing to open-source projects</p>
+<p align="left">I'm Nashaat Mohamed from Mansoura.<br><br>- 🔭 I’m working as a Junior Backend Developer<br>- 📚 I'm currently learning advanced backend technologies and cloud services<br>- ⚡ In my free time, I enjoy solving coding challenges and contributing to open-source projects</p>
 
 ###
 
@@ -48,7 +45,7 @@ Here's your updated GitHub profile README with the preferred header and a sectio
 <h3 align="left">📫 How to connect with me:</h3>
 
 <p align="left">
-  <a href="mailto:youremail@example.com">Email</a> • 
+  <a href="mailto:nashaat.mohamed.969@gmail.com">Email</a> • 
   <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn</a> • 
   <a href="https://github.com/NashaatMohamed">GitHub</a>
 </p>
