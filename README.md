@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NashaatMohamed.NashaatMohamed&"  />
 </div>
-<h1 align="center">Elsayed Nashaat - Junior Backend Developer</h1>
+<h1 align="center"> NashaatMohamed - Junior Laravel Backend Developer</h1>
 <h3 align="left">👨‍💻  About Me</h3>
 <p align="left">I'm Elsayed from Egypt.<br><br>- 🔭 I’m working as a Junior Backend Developer<br>- 📚 I'm currently learning advanced backend technologies and cloud services<br>- ⚡ In my free time, I enjoy solving coding challenges and contributing to open-source projects</p>
 
@@ -39,8 +39,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
-<h3 align="left">🔥   My Stats :</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NashaatMohamed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
