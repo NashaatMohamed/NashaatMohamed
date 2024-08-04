@@ -1,21 +1,25 @@
+Here's your updated GitHub profile README with the preferred header and a section on how to connect with you, without the three icons:
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/your-youtube-channel">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+---
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NashaatMohamed.NashaatMohamed&"  />
 </div>
-<h1 align="center"> NashaatMohamed - Junior Laravel Backend Developer</h1>
+
+###
+
+<h1 align="center">Hi 👋, I'm Nashaat Mohamed</h1>
+<h2 align="center">Junior Backend Developer</h2>
+
+###
+
 <h3 align="left">👨‍💻  About Me</h3>
-<p align="left">I'm Elsayed from Egypt.<br><br>- 🔭 I’m working as a Junior Backend Developer<br>- 📚 I'm currently learning advanced backend technologies and cloud services<br>- ⚡ In my free time, I enjoy solving coding challenges and contributing to open-source projects</p>
+
+###
+
+<p align="left">I'm Nashaat Mohamed from Egypt.<br><br>- 🔭 I’m working as a Junior Backend Developer<br>- 📚 I'm currently learning advanced backend technologies and cloud services<br>- ⚡ In my free time, I enjoy solving coding challenges and contributing to open-source projects</p>
+
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -40,3 +44,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
+
+<h3 align="left">📫 How to connect with me:</h3>
+
+<p align="left">
+  <a href="mailto:youremail@example.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn</a> • 
+  <a href="https://github.com/NashaatMohamed">GitHub</a>
+</p>
+
+###
