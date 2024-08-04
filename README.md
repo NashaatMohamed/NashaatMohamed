@@ -46,7 +46,7 @@
 
 <p align="left">
   <a href="mailto:nashaat.mohamed.969@gmail.com">Email</a> • 
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/nashaat-mohamed">LinkedIn</a> • 
   <a href="https://github.com/NashaatMohamed">GitHub</a>
 </p>
 
