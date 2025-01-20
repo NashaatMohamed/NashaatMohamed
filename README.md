@@ -6,7 +6,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Nashaat Mohamed</h1>
-<h2 align="center">Junior Backend Developer</h2>
+<h2 align="center">PHP Backend Developer</h2>
 
 ###
 
