@@ -22,7 +22,7 @@ I'm a passionate backend developer from Mansoura, Egypt, specializing in buildin
 - 🔭 Currently working as a Backend Developer
 - 🌱 Learning advanced backend architectures and cloud technologies
 - 💡 Interested in system design and performance optimization
-- 🎯 2023 Goals: Contribute more to open-source projects
+- 🎯 2025 Goals: Contribute more to open-source projects
 - ⚡ Fun fact: I enjoy solving coding challenges in my free time
 
 ###
@@ -73,7 +73,3 @@ I'm a passionate backend developer from Mansoura, Egypt, specializing in buildin
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NashaatMohamed&theme=algolia" alt="GitHub Streak" />
-</div>
