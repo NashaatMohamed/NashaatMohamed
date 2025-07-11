@@ -1,51 +1,79 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NashaatMohamed.NashaatMohamed&" alt="Visitor Count" />
+</div>
+
+###
+
+<h1 align="center">👋 Hello, I'm Nashaat Mohamed</h1>
+<h3 align="center">Backend Developer | PHP Specialist | Problem Solver | Laravel PHP Developer</h3>
+
+###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NashaatMohamed.NashaatMohamed&"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C7AFF&center=true&vCenter=true&width=435&lines=Clean+Code+Enthusiast;Backend+Architecture+Lover;Continuous+Learner;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ###
 
-<h1 align="center">Hi 👋, I'm Nashaat Mohamed</h1>
-<h2 align="center">PHP Backend Developer</h2>
+## 🚀 About Me
+
+I'm a passionate backend developer from Mansoura, Egypt, specializing in building robust and scalable web applications. With a strong foundation in PHP and modern backend technologies, I thrive on solving complex problems and creating efficient systems.
+
+- 🔭 Currently working as a Backend Developer
+- 🌱 Learning advanced backend architectures and cloud technologies
+- 💡 Interested in system design and performance optimization
+- 🎯 2023 Goals: Contribute more to open-source projects
+- ⚡ Fun fact: I enjoy solving coding challenges in my free time
 
 ###
 
-<h3 align="left">👨‍💻  About Me</h3>
+## 🛠 Tech Stack
+
+### Core Skills
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Web Fundamentals
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ###
 
-<p align="left">I'm Nashaat Mohamed from Mansoura.<br><br>- 🔭 I’m working as a Junior Backend Developer<br>- 📚 I'm currently learning advanced backend technologies and cloud services<br>- ⚡ In my free time, I enjoy solving coding challenges and contributing to open-source projects</p>
+## 📈 GitHub Stats
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NashaatMohamed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Nashaat's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NashaatMohamed&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
 </div>
 
-<h3 align="left">📫 How to connect with me:</h3>
+###
 
-<p align="left">
-  <a href="mailto:nashaat.mohamed.969@gmail.com">Email</a> • 
-  <a href="https://www.linkedin.com/in/nashaat-mohamed">LinkedIn</a> • 
-  <a href="https://github.com/NashaatMohamed">GitHub</a>
-</p>
+## 🔗 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nashaat-mohamed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nashaat.mohamed.969@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/NashaatMohamed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NashaatMohamed&theme=algolia" alt="GitHub Streak" />
+</div>
